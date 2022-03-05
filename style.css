@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+@import url("components/container.css");
+@import url("components/penmarch.css");
+@import url("components/button.css");
+
+ body {
+	font-family: 'Zilla Slab', serif ;
+	font-size: 18px;
+	text-align: center;
+}
+h1, h2, h3 {
+	font-family:'Lobster', cursive ;
+	font-weight: bold;
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+
+a {
+	text-decoration: none;
+}
+
+
+
